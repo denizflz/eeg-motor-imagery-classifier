@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
+
+# optional data folder
+data/
+
+#original experimentation file
+explore_data_og.ipynb/
+
+# virtual environments
+venv/
+.venv/
+env/
