@@ -50,9 +50,7 @@ eeg-motor-imagery-classifier/
 ├── .gitignore
 ├── LISCENSE
 ├── motor_imagery_csp_svm.ipynb
-│
-└── figures/
-    └── pipeline_and_accuracy.png
+└── pipeline_and_accuracy.png
 ```
 ## Running the Project
 
