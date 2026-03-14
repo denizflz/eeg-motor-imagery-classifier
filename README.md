@@ -56,7 +56,7 @@ eeg-motor-imagery-classifier/
 
 **1. Clone the repository**
 ```text
-git clone https://github.com/YOUR-USERNAME/eeg-motor-imagery-classifier.git
+git clone https://github.com/denizflz/eeg-motor-imagery-classifier.git
 cd eeg-motor-imagery-classifier
 ```
 
