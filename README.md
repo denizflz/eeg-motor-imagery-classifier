@@ -71,7 +71,7 @@ jupyter notebook motor_imagery_csp_svm.ipynb
 ```
 
 ## Notes
-This implementation focuses on single-subject motor imagery classification in a controlled setting. A natural next step would be extending the pipeline to handle cross-session or cross-subject generalization, or building a closed-loop cursor control simulation using prerecorded EEG data.
+This implementation focuses on single-subject motor imagery classification in a controlled setting. A natural next step would be extending the pipeline to handle cross-session or cross-subject generalization.
 
 ## Article
 I also wrote a full article explaining the reasoning behind the pipeline, the failed baselines, and the progression from 50% to 90% accuracy. You can access it from [here.](https://medium.com/@denizfiliz/from-raw-eeg-to-90-accuracy-building-a-motor-imagery-classifier-5d3d5659349e)
