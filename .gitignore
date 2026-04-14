@@ -9,9 +9,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# optional data folder
-data/
-
 #original experimentation file
 explore_data_og.ipynb
 
